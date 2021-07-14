@@ -10,13 +10,23 @@
 ### Software to detect if your computer meets the requirements to run windows 11.
 ![Screenshot](https://github.com/NAT4N/Win11Check/blob/master/Screenshot.png?raw=true)
 
-# Donwload
+## Donwload
 
 [Download ZIP Version](https://github.com/NAT4N/Win11Check/releases/download/1.0.0.0/Win11Check.zip)
 
 [Download Install Version](https://github.com/NAT4N/Win11Check/releases/download/1.0.0.0/Win11CheckInstall.zip)
 
-# Author
+## System Requirements
+
+|                	| Minimum Requirements 	|       Recommended       	|
+|:---------------:|:---------------------:|:-----------------------:	|
+|       OS       	|       Windows 7      	| Latest Windows 10 Build 	|
+|       CPU      	|  32-bit Single Core   | 64-bit Dual Core or Higher|
+|       RAM      	|      100MB FREE      	|        100MB Free       	|
+|     STOGARE    	|       5MB FREE       	|        100MB Free       	|
+| .NET FRAMEWORK 	|         4.7.2        	|          4.7.2          	|
+
+## Author
 
 Made by Natan Bastos 👋🏽 Contact us!
 
