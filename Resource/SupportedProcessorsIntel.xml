@@ -1,0 +1,541 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProcessorIntelList>
+<processor>Atom(R) x6200FE</processor>
+<processor>Atom(R) x6211E</processor>
+<processor>Atom(R) x6212RE</processor>
+<processor>Atom(R) x6413E</processor>
+<processor>Atom(R) x6414RE</processor>
+<processor>Atom(R) x6425E</processor>
+<processor>Atom(R) x6425RE</processor>
+<processor>Atom(R) x6427FE</processor>
+<processor>Celeron(R) G4900</processor>
+<processor>Celeron(R) G4900T</processor>
+<processor>Celeron(R) G4920</processor>
+<processor>Celeron(R) G4930</processor>
+<processor>Celeron(R) G4930E</processor>
+<processor>Celeron(R) G4930T</processor>
+<processor>Celeron(R) G4932E</processor>
+<processor>Celeron(R) G4950</processor>
+<processor>Celeron(R) J4005</processor>
+<processor>Celeron(R) J4105</processor>
+<processor>Celeron(R) J4115</processor>
+<processor>Celeron(R) N4000</processor>
+<processor>Celeron(R) N4100</processor>
+<processor>Celeron(R) 3867U</processor>
+<processor>Celeron(R) 4205U</processor>
+<processor>Celeron(R) 4305U</processor>
+<processor>Celeron(R) 4305UE</processor>
+<processor>Celeron(R) J4025</processor>
+<processor>Celeron(R) J4125</processor>
+<processor>Celeron(R) N4020</processor>
+<processor>Celeron(R) N4120</processor>
+<processor>Celeron(R) 5205U</processor>
+<processor>Celeron(R) 5305U</processor>
+<processor>Celeron(R) G5900</processor>
+<processor>Celeron(R) G5900E</processor>
+<processor>Celeron(R) G5900T</processor>
+<processor>Celeron(R) G5900TE</processor>
+<processor>Celeron(R) G5905</processor>
+<processor>Celeron(R) G5905T</processor>
+<processor>Celeron(R) G5920</processor>
+<processor>Celeron(R) G5925</processor>
+<processor>Celeron(R) J6412</processor>
+<processor>Celeron(R) J6413</processor>
+<processor>Celeron(R) N6210</processor>
+<processor>Celeron(R) N6211</processor>
+<processor>Celeron(R) N4500</processor>
+<processor>Celeron(R) N4505</processor>
+<processor>Celeron(R) N5100</processor>
+<processor>Celeron(R) N5105</processor>
+<processor>Celeron(R) 6305</processor>
+<processor>Celeron(R) 6305E</processor>
+<processor>Core(TM) i5-10210Y</processor>
+<processor>Core(TM) i5-10310Y</processor>
+<processor>Core(TM) i5-8200Y</processor>
+<processor>Core(TM) i5-8210Y</processor>
+<processor>Core(TM) i5-8310Y</processor>
+<processor>Core(TM) i7-10510Y</processor>
+<processor>Core(TM) i7-8500Y</processor>
+<processor>Core(TM) m3-8100Y</processor>
+<processor>Core(TM) i3-8100</processor>
+<processor>Core(TM) i3-8100B</processor>
+<processor>Core(TM) i3-8100H</processor>
+<processor>Core(TM) i3-8100T</processor>
+<processor>Core(TM) i3-8109U</processor>
+<processor>Core(TM) i3-8140U</processor>
+<processor>Core(TM) i3-8300</processor>
+<processor>Core(TM) i3-8300T</processor>
+<processor>Core(TM) i3-8350K</processor>
+<processor>Core(TM) i5-8400</processor>
+<processor>Core(TM) i5-8500</processor>
+<processor>Core(TM) i5-8257U</processor>
+<processor>Core(TM) i5-8259U</processor>
+<processor>Core(TM) i5-8260U</processor>
+<processor>Core(TM) i5-8269U</processor>
+<processor>Core(TM) i5-8279U</processor>
+<processor>Core(TM) i5-8300H</processor>
+<processor>Core(TM) i5-8400</processor>
+<processor>Core(TM) i5-8400B</processor>
+<processor>Core(TM) i5-8400H</processor>
+<processor>Core(TM) i5-8400T</processor>
+<processor>Core(TM) i5-8500</processor>
+<processor>Core(TM) i5-8500B</processor>
+<processor>Core(TM) i5-8500T</processor>
+<processor>Core(TM) i5-8600</processor>
+<processor>Core(TM) i5-8600K</processor>
+<processor>Core(TM) i5-8600T</processor>
+<processor>Core(TM) i7-8086K</processor>
+<processor>Core(TM) i7-8557U</processor>
+<processor>Core(TM) i7-8559U</processor>
+<processor>Core(TM) i7-8569U</processor>
+<processor>Core(TM) i7-8700</processor>
+<processor>Core(TM) i7-8700B</processor>
+<processor>Core(TM) i7-8700K</processor>
+<processor>Core(TM) i7-8700T</processor>
+<processor>Core(TM) i7-8750H</processor>
+<processor>Core(TM) i7-8850H</processor>
+<processor>Core(TM) i3-8130U</processor>
+<processor>Core(TM) i5-8250U</processor>
+<processor>Core(TM) i5-8350U</processor>
+<processor>Core(TM) i7-8550U</processor>
+<processor>Core(TM) i7-8650U</processor>
+<processor>Core(TM) i3-8145U</processor>
+<processor>Core(TM) i3-8145UE</processor>
+<processor>Core(TM) i5-8265U</processor>
+<processor>Core(TM) i5-8365U</processor>
+<processor>Core(TM) i5-8365UE</processor>
+<processor>Core(TM) i7-8565U</processor>
+<processor>Core(TM) i7-8665U</processor>
+<processor>Core(TM) i7-8665UE</processor>
+<processor>Core(TM) i3-9100</processor>
+<processor>Core(TM) i3-9100E</processor>
+<processor>Core(TM) i3-9100F</processor>
+<processor>Core(TM) i3-9100HL</processor>
+<processor>Core(TM) i3-9100T</processor>
+<processor>Core(TM) i3-9100TE</processor>
+<processor>Core(TM) i3-9300</processor>
+<processor>Core(TM) i3-9300T</processor>
+<processor>Core(TM) i3-9320</processor>
+<processor>Core(TM) i3-9350K</processor>
+<processor>Core(TM) i3-9350KF</processor>
+<processor>Core(TM) i5-9300H</processor>
+<processor>Core(TM) i5-9300HF</processor>
+<processor>Core(TM) i5-9400</processor>
+<processor>Core(TM) i5-9400F</processor>
+<processor>Core(TM) i5-9400H</processor>
+<processor>Core(TM) i5-9400T</processor>
+<processor>Core(TM) i5-9500</processor>
+<processor>Core(TM) i5-9500E</processor>
+<processor>Core(TM) i5-9500F</processor>
+<processor>Core(TM) i5-9500T</processor>
+<processor>Core(TM) i5-9500TE</processor>
+<processor>Core(TM) i5-9600</processor>
+<processor>Core(TM) i5-9600K</processor>
+<processor>Core(TM) i5-9600KF</processor>
+<processor>Core(TM) i5-9600T</processor>
+<processor>Core(TM) i7-9700</processor>
+<processor>Core(TM) i7-9700E</processor>
+<processor>Core(TM) i7-9700F</processor>
+<processor>Core(TM) i7-9700K</processor>
+<processor>Core(TM) i7-9700KF</processor>
+<processor>Core(TM) i7-9700T</processor>
+<processor>Core(TM) i7-9700TE</processor>
+<processor>Core(TM) i7-9750H</processor>
+<processor>Core(TM) i7-9750HF</processor>
+<processor>Core(TM) i7-9850H</processor>
+<processor>Core(TM) i7-9850HE</processor>
+<processor>Core(TM) i7-9850HL</processor>
+<processor>Core(TM) i9-8950HK</processor>
+<processor>Core(TM) i9-9880H</processor>
+<processor>Core(TM) i9-9900</processor>
+<processor>Core(TM) i9-9900K</processor>
+<processor>Core(TM) i9-9900KF</processor>
+<processor>Core(TM) i9-9900KS</processor>
+<processor>Core(TM) i9-9900T</processor>
+<processor>Core(TM) i9-9980HK</processor>
+<processor>Core(TM) i3-10100Y</processor>
+<processor>Core(TM) i3-10110Y</processor>
+<processor>Core(TM) i9-10900X</processor>
+<processor>Core(TM) i9-10920X</processor>
+<processor>Core(TM) i9-10940X</processor>
+<processor>Core(TM) i9-10980XE</processor>
+<processor>Core(TM) i3-10100</processor>
+<processor>Core(TM) i3-10100E</processor>
+<processor>Core(TM) i3-10100F</processor>
+<processor>Core(TM) i3-10100T</processor>
+<processor>Core(TM) i3-10100TE</processor>
+<processor>Core(TM) i3-10105</processor>
+<processor>Core(TM) i3-10105F</processor>
+<processor>Core(TM) i3-10105T</processor>
+<processor>Core(TM) i3-10110U</processor>
+<processor>Core(TM) i3-10300</processor>
+<processor>Core(TM) i3-10300T</processor>
+<processor>Core(TM) i3-10305</processor>
+<processor>Core(TM) i3-10305T</processor>
+<processor>Core(TM) i3-10320</processor>
+<processor>Core(TM) i3-10325</processor>
+<processor>Core(TM) i5-10200H</processor>
+<processor>Core(TM) i5-10210U</processor>
+<processor>Core(TM) i5-10300H</processor>
+<processor>Core(TM) i5-10310U</processor>
+<processor>Core(TM) i5-10400</processor>
+<processor>Core(TM) i5-10400F</processor>
+<processor>Core(TM) i5-10400H</processor>
+<processor>Core(TM) i5-10400T</processor>
+<processor>Core(TM) i5-10500</processor>
+<processor>Core(TM) i5-10500E</processor>
+<processor>Core(TM) i5-10500H</processor>
+<processor>Core(TM) i5-10500T</processor>
+<processor>Core(TM) i5-10500TE</processor>
+<processor>Core(TM) i5-10600</processor>
+<processor>Core(TM) i5-10600K</processor>
+<processor>Core(TM) i5-10600KF</processor>
+<processor>Core(TM) i5-10600T</processor>
+<processor>Core(TM) i7-10510U</processor>
+<processor>Core(TM) i7-10610U</processor>
+<processor>Core(TM) i7-10700</processor>
+<processor>Core(TM) i7-10700E</processor>
+<processor>Core(TM) i7-10700F</processor>
+<processor>Core(TM) i7-10700K</processor>
+<processor>Core(TM) i7-10700KF</processor>
+<processor>Core(TM) i7-10700T</processor>
+<processor>Core(TM) i7-10700TE</processor>
+<processor>Core(TM) i7-10710U</processor>
+<processor>Core(TM) i7-10750H</processor>
+<processor>Core(TM) i7-10810U</processor>
+<processor>Core(TM) i7-10850H</processor>
+<processor>Core(TM) i7-10870H</processor>
+<processor>Core(TM) i7-10875H</processor>
+<processor>Core(TM) i9-10850K</processor>
+<processor>Core(TM) i9-10885H</processor>
+<processor>Core(TM) i9-10900</processor>
+<processor>Core(TM) i9-10900E</processor>
+<processor>Core(TM) i9-10900F</processor>
+<processor>Core(TM) i9-10900K</processor>
+<processor>Core(TM) i9-10900KF</processor>
+<processor>Core(TM) i9-10900T</processor>
+<processor>Core(TM) i9-10900TE</processor>
+<processor>Core(TM) i9-10980HK</processor>
+<processor>Core(TM) i3-1000G1</processor>
+<processor>Core(TM) i3-1000G4</processor>
+<processor>Core(TM) i3-1005G1</processor>
+<processor>Core(TM) i5-1030G4</processor>
+<processor>Core(TM) i5-1030G7</processor>
+<processor>Core(TM) i5-1035G1</processor>
+<processor>Core(TM) i5-1035G4</processor>
+<processor>Core(TM) i5-1035G7</processor>
+<processor>Core(TM) i5-1038NG7</processor>
+<processor>Core(TM) i7-1060G7</processor>
+<processor>Core(TM) i7-1065G7</processor>
+<processor>Core(TM) i7-1068NG7</processor>
+<processor>Core(TM) i3-L13G4</processor>
+<processor>Core(TM) i5-L16G7</processor>
+<processor>Core(TM) i5-11400</processor>
+<processor>Core(TM) i5-11400F</processor>
+<processor>Core(TM) i5-11400T</processor>
+<processor>Core(TM) i5-11500</processor>
+<processor>Core(TM) i5-11500T</processor>
+<processor>Core(TM) i5-11600</processor>
+<processor>Core(TM) i5-11600K</processor>
+<processor>Core(TM) i5-11600KF</processor>
+<processor>Core(TM) i5-11600T</processor>
+<processor>Core(TM) i7-11700</processor>
+<processor>Core(TM) i7-11700F</processor>
+<processor>Core(TM) i7-11700K</processor>
+<processor>Core(TM) i7-11700KF</processor>
+<processor>Core(TM) i7-11700T</processor>
+<processor>Core(TM) i9-11900</processor>
+<processor>Core(TM) i9-11900F</processor>
+<processor>Core(TM) i9-11900K</processor>
+<processor>Core(TM) i9-11900KF</processor>
+<processor>Core(TM) i9-11900T</processor>
+<processor>Core(TM) i3-1110G4</processor>
+<processor>Core(TM) i3-1115G4</processor>
+<processor>Core(TM) i3-1115G4E</processor>
+<processor>Core(TM) i3-1115GRE</processor>
+<processor>Core(TM) i3-1120G4</processor>
+<processor>Core(TM) i3-1125G4</processor>
+<processor>Core(TM) i5-11300H</processor>
+<processor>Core(TM) i5-1130G7</processor>
+<processor>Core(TM) i5-1135G7</processor>
+<processor>Core(TM) i5-1135G7</processor>
+<processor>Core(TM) i5-1140G7</processor>
+<processor>Core(TM) i5-1145G7</processor>
+<processor>Core(TM) i5-1145G7E</processor>
+<processor>Core(TM) i5-1145GRE</processor>
+<processor>Core(TM) i7-11370H</processor>
+<processor>Core(TM) i7-11375H</processor>
+<processor>Core(TM) i7-1160G7</processor>
+<processor>Core(TM) i7-1165G7</processor>
+<processor>Core(TM) i7-1165G7</processor>
+<processor>Core(TM) i7-1180G7</processor>
+<processor>Core(TM) i7-1185G7</processor>
+<processor>Core(TM) i7-1185G7E</processor>
+<processor>Core(TM) i7-1185GRE</processor>
+<processor>Pentium(R) CPU 4425Y</processor>
+<processor>Pentium(R) CPU 6500Y</processor>
+<processor>Pentium(R) CPU G5400</processor>
+<processor>Pentium(R) CPU G5400T</processor>
+<processor>Pentium(R) CPU G5420</processor>
+<processor>Pentium(R) CPU G5420T</processor>
+<processor>Pentium(R) CPU G5500</processor>
+<processor>Pentium(R) CPU G5500T</processor>
+<processor>Pentium(R) CPU G5600</processor>
+<processor>Pentium(R) CPU G5600T</processor>
+<processor>Pentium(R) CPU G5620</processor>
+<processor>Pentium(R) Silver J5005</processor>
+<processor>Pentium(R) Silver N5000</processor>
+<processor>Pentium(R) CPU 4417U</processor>
+<processor>Pentium(R) CPU 5405U</processor>
+<processor>Pentium(R) Silver J5040</processor>
+<processor>Pentium(R) Silver N5030</processor>
+<processor>Pentium(R) CPU 6405U</processor>
+<processor>Pentium(R) CPU G6400</processor>
+<processor>Pentium(R) CPU G6400E</processor>
+<processor>Pentium(R) CPU G6400T</processor>
+<processor>Pentium(R) CPU G6400TE</processor>
+<processor>Pentium(R) CPU G6405</processor>
+<processor>Pentium(R) CPU G6405T</processor>
+<processor>Pentium(R) CPU G6500</processor>
+<processor>Pentium(R) CPU G6500T</processor>
+<processor>Pentium(R) CPU G6505</processor>
+<processor>Pentium(R) CPU G6505T</processor>
+<processor>Pentium(R) CPU G6600</processor>
+<processor>Pentium(R) CPU G6605</processor>
+<processor>Pentium(R) 6805</processor>
+<processor>Pentium(R) J6426</processor>
+<processor>Pentium(R) N6415</processor>
+<processor>Pentium(R) Silver N6000</processor>
+<processor>Pentium(R) Silver N6005</processor>
+<processor>Pentium(R) CPU 7505</processor>
+<processor>Xeon(R) Bronze 3104</processor>
+<processor>Xeon(R) Bronze 3106</processor>
+<processor>Xeon(R) Gold 5115</processor>
+<processor>Xeon(R) Gold 5118</processor>
+<processor>Xeon(R) Gold 5119T</processor>
+<processor>Xeon(R) Gold 5120</processor>
+<processor>Xeon(R) Gold 5120T</processor>
+<processor>Xeon(R) Gold 5122</processor>
+<processor>Xeon(R) Gold 6126</processor>
+<processor>Xeon(R) Gold 6126F</processor>
+<processor>Xeon(R) Gold 6126T</processor>
+<processor>Xeon(R) Gold 6128</processor>
+<processor>Xeon(R) Gold 6130</processor>
+<processor>Xeon(R) Gold 6130F</processor>
+<processor>Xeon(R) Gold 6130T</processor>
+<processor>Xeon(R) Gold 6132</processor>
+<processor>Xeon(R) Gold 6134</processor>
+<processor>Xeon(R) Gold 6136</processor>
+<processor>Xeon(R) Gold 6138</processor>
+<processor>Xeon(R) Gold 6138F</processor>
+<processor>Xeon(R) Gold 6138P</processor>
+<processor>Xeon(R) Gold 6138T</processor>
+<processor>Xeon(R) Gold 6140</processor>
+<processor>Xeon(R) Gold 6142</processor>
+<processor>Xeon(R) Gold 6142F</processor>
+<processor>Xeon(R) Gold 6144</processor>
+<processor>Xeon(R) Gold 6146</processor>
+<processor>Xeon(R) Gold 6148</processor>
+<processor>Xeon(R) Gold 6148F</processor>
+<processor>Xeon(R) Gold 6150</processor>
+<processor>Xeon(R) Gold 6152</processor>
+<processor>Xeon(R) Gold 6154</processor>
+<processor>Xeon(R) Platinum 8153</processor>
+<processor>Xeon(R) Platinum 8156</processor>
+<processor>Xeon(R) Platinum 8158</processor>
+<processor>Xeon(R) Platinum 8160</processor>
+<processor>Xeon(R) Platinum 8160F</processor>
+<processor>Xeon(R) Platinum 8160T</processor>
+<processor>Xeon(R) Platinum 8164</processor>
+<processor>Xeon(R) Platinum 8168</processor>
+<processor>Xeon(R) Platinum 8170</processor>
+<processor>Xeon(R) Platinum 8176</processor>
+<processor>Xeon(R) Platinum 8176F</processor>
+<processor>Xeon(R) Platinum 8180</processor>
+<processor>Xeon(R) Silver 4108</processor>
+<processor>Xeon(R) Silver 4109T</processor>
+<processor>Xeon(R) Silver 4110</processor>
+<processor>Xeon(R) Silver 4112</processor>
+<processor>Xeon(R) Silver 4114</processor>
+<processor>Xeon(R) Silver 4114T</processor>
+<processor>Xeon(R) Silver 4116</processor>
+<processor>Xeon(R) Silver 4116T</processor>
+<processor>Xeon(R) E-2124</processor>
+<processor>Xeon(R) E-2124G</processor>
+<processor>Xeon(R) E-2126G</processor>
+<processor>Xeon(R) E-2134</processor>
+<processor>Xeon(R) E-2136</processor>
+<processor>Xeon(R) E-2144G</processor>
+<processor>Xeon(R) E-2146G</processor>
+<processor>Xeon(R) E-2174G</processor>
+<processor>Xeon(R) E-2176G</processor>
+<processor>Xeon(R) E-2176M</processor>
+<processor>Xeon(R) E-2186G</processor>
+<processor>Xeon(R) E-2186M</processor>
+<processor>Xeon(R) E-2224</processor>
+<processor>Xeon(R) E-2224G</processor>
+<processor>Xeon(R) E-2226G</processor>
+<processor>Xeon(R) E-2226GE</processor>
+<processor>Xeon(R) E-2234</processor>
+<processor>Xeon(R) E-2236</processor>
+<processor>Xeon(R) E-2244G</processor>
+<processor>Xeon(R) E-2246G</processor>
+<processor>Xeon(R) E-2254ME</processor>
+<processor>Xeon(R) E-2254ML</processor>
+<processor>Xeon(R) E-2274G</processor>
+<processor>Xeon(R) E-2276G</processor>
+<processor>Xeon(R) E-2276M</processor>
+<processor>Xeon(R) E-2276ME</processor>
+<processor>Xeon(R) E-2276ML</processor>
+<processor>Xeon(R) E-2278G</processor>
+<processor>Xeon(R) E-2278GE</processor>
+<processor>Xeon(R) E-2278GEL</processor>
+<processor>Xeon(R) E-2286G</processor>
+<processor>Xeon(R) E-2286M</processor>
+<processor>Xeon(R) E-2288G</processor>
+<processor>Xeon(R) Bronze 3204</processor>
+<processor>Xeon(R) Bronze 3206R</processor>
+<processor>Xeon(R) Gold 5215</processor>
+<processor>Xeon(R) Gold 5215L</processor>
+<processor>Xeon(R) Gold 5217</processor>
+<processor>Xeon(R) Gold 5218B</processor>
+<processor>Xeon(R) Gold 5218N</processor>
+<processor>Xeon(R) Gold 5218R</processor>
+<processor>Xeon(R) Gold 5218T</processor>
+<processor>Xeon(R) Gold 5220</processor>
+<processor>Xeon(R) Gold 5220R</processor>
+<processor>Xeon(R) Gold 5220S</processor>
+<processor>Xeon(R) Gold 5220T</processor>
+<processor>Xeon(R) Gold 5222</processor>
+<processor>Xeon(R) Gold 6208U</processor>
+<processor>Xeon(R) Gold 6209U</processor>
+<processor>Xeon(R) Gold 6210U</processor>
+<processor>Xeon(R) Gold 6212U</processor>
+<processor>Xeon(R) Gold 6222V</processor>
+<processor>Xeon(R) Gold 6226</processor>
+<processor>Xeon(R) Gold 6226R</processor>
+<processor>Xeon(R) Gold 6230</processor>
+<processor>Xeon(R) Gold 6230N</processor>
+<processor>Xeon(R) Gold 6230R</processor>
+<processor>Xeon(R) Gold 6230T</processor>
+<processor>Xeon(R) Gold 6238</processor>
+<processor>Xeon(R) Gold 6238L</processor>
+<processor>Xeon(R) Gold 6238T</processor>
+<processor>Xeon(R) Gold 6240</processor>
+<processor>Xeon(R) Gold 6240L</processor>
+<processor>Xeon(R) Gold 6240R</processor>
+<processor>Xeon(R) Gold 6240Y</processor>
+<processor>Xeon(R) Gold 6242</processor>
+<processor>Xeon(R) Gold 6242R</processor>
+<processor>Xeon(R) Gold 6244</processor>
+<processor>Xeon(R) Gold 6246R</processor>
+<processor>Xeon(R) Gold 6248</processor>
+<processor>Xeon(R) Gold 6248R</processor>
+<processor>Xeon(R) Gold 6250</processor>
+<processor>Xeon(R) Gold 6250L</processor>
+<processor>Xeon(R) Gold 6252</processor>
+<processor>Xeon(R) Gold 6252N</processor>
+<processor>Xeon(R) Gold 6254</processor>
+<processor>Xeon(R) Gold 6256</processor>
+<processor>Xeon(R) Gold 6258R</processor>
+<processor>Xeon(R) Gold 6262V</processor>
+<processor>Xeon(R) Gold Gold 5218</processor>
+<processor>Xeon(R) Gold Gold 6238R</processor>
+<processor>Xeon(R) Gold6246</processor>
+<processor>Xeon(R) Goldv 6234</processor>
+<processor>Xeon(R) Platinum 8253</processor>
+<processor>Xeon(R) Platinum 8256</processor>
+<processor>Xeon(R) Platinum 8260</processor>
+<processor>Xeon(R) Platinum 8260L</processor>
+<processor>Xeon(R) Platinum 8260Y</processor>
+<processor>Xeon(R) Platinum 8268</processor>
+<processor>Xeon(R) Platinum 8270</processor>
+<processor>Xeon(R) Platinum 8276</processor>
+<processor>Xeon(R) Platinum 8276L</processor>
+<processor>Xeon(R) Platinum 8280</processor>
+<processor>Xeon(R) Platinum 8280L</processor>
+<processor>Xeon(R) Platinum 9221</processor>
+<processor>Xeon(R) Platinum 9222</processor>
+<processor>Xeon(R) Platinum 9242</processor>
+<processor>Xeon(R) Platinum 9282</processor>
+<processor>Xeon(R) Silver 4208</processor>
+<processor>Xeon(R) Silver 4209T</processor>
+<processor>Xeon(R) Silver 4210</processor>
+<processor>Xeon(R) Silver 4210R</processor>
+<processor>Xeon(R) Silver 4210T</processor>
+<processor>Xeon(R) Silver 4214</processor>
+<processor>Xeon(R) Silver 4214R</processor>
+<processor>Xeon(R) Silver 4214Y</processor>
+<processor>Xeon(R) Silver 4215</processor>
+<processor>Xeon(R) Silver 4215R</processor>
+<processor>Xeon(R) Silver 4216</processor>
+<processor>Xeon(R) W-2223</processor>
+<processor>Xeon(R) W-2225</processor>
+<processor>Xeon(R) W-2235</processor>
+<processor>Xeon(R) W-2245</processor>
+<processor>Xeon(R) W-2255</processor>
+<processor>Xeon(R) W-2265</processor>
+<processor>Xeon(R) W-2275</processor>
+<processor>Xeon(R) W-2295</processor>
+<processor>Xeon(R) W-3223</processor>
+<processor>Xeon(R) W-3225</processor>
+<processor>Xeon(R) W-3235</processor>
+<processor>Xeon(R) W-3245</processor>
+<processor>Xeon(R) W-3245M</processor>
+<processor>Xeon(R) W-3265</processor>
+<processor>Xeon(R) W-3265M</processor>
+<processor>Xeon(R) W-3275</processor>
+<processor>Xeon(R) W-3275M</processor>
+<processor>Xeon(R) W-10855M</processor>
+<processor>Xeon(R) W-10885M</processor>
+<processor>Xeon(R) W-1250</processor>
+<processor>Xeon(R) W-1250E</processor>
+<processor>Xeon(R) W-1250P</processor>
+<processor>Xeon(R) W-1250TE</processor>
+<processor>Xeon(R) W-1270</processor>
+<processor>Xeon(R) W-1270E</processor>
+<processor>Xeon(R) W-1270P</processor>
+<processor>Xeon(R) W-1270TE</processor>
+<processor>Xeon(R) W-1290</processor>
+<processor>Xeon(R) W-1290E</processor>
+<processor>Xeon(R) W-1290P</processor>
+<processor>Xeon(R) W-1290T</processor>
+<processor>Xeon(R) W-1290TE</processor>
+<processor>Xeon(R) Gold 5315Y</processor>
+<processor>Xeon(R) Gold 5317</processor>
+<processor>Xeon(R) Gold 5318N</processor>
+<processor>Xeon(R) Gold 5318S</processor>
+<processor>Xeon(R) Gold 5320</processor>
+<processor>Xeon(R) Gold 5320T</processor>
+<processor>Xeon(R) Gold 6312U</processor>
+<processor>Xeon(R) Gold 6314U</processor>
+<processor>Xeon(R) Gold 6326</processor>
+<processor>Xeon(R) Gold 6330</processor>
+<processor>Xeon(R) Gold 6330N</processor>
+<processor>Xeon(R) Gold 6334</processor>
+<processor>Xeon(R) Gold 6336Y</processor>
+<processor>Xeon(R) Gold 6338</processor>
+<processor>Xeon(R) Gold 6338N</processor>
+<processor>Xeon(R) Gold 6338T</processor>
+<processor>Xeon(R) Gold 6342</processor>
+<processor>Xeon(R) Gold 6346</processor>
+<processor>Xeon(R) Gold 6348</processor>
+<processor>Xeon(R) Gold 6354</processor>
+<processor>Xeon(R) Gold 5318Y</processor>
+<processor>Xeon(R) Platinum 8351N</processor>
+<processor>Xeon(R) Platinum 8352S</processor>
+<processor>Xeon(R) Platinum 8352V</processor>
+<processor>Xeon(R) Platinum 8352Y</processor>
+<processor>Xeon(R) Platinum 8358</processor>
+<processor>Xeon(R) Platinum 8358P</processor>
+<processor>Xeon(R) Platinum 8360Y</processor>
+<processor>Xeon(R) Platinum 8368</processor>
+<processor>Xeon(R) Platinum 8368Q</processor>
+<processor>Xeon(R) Platinum 8380</processor>
+<processor>Xeon(R) Silver 4309Y</processor>
+<processor>Xeon(R) Silver 4310</processor>
+<processor>Xeon(R) Silver 4310T</processor>
+<processor>Xeon(R) Silver 4314</processor>
+<processor>Xeon(R) Silver 4316</processor>
+</ProcessorIntelList>
+

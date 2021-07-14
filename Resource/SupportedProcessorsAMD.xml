@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProcessorAMDList>
+<processor>3015e</processor>
+<processor>3020e</processor>
+<processor>Athlon Gold 3150C</processor>
+<processor>Athlon Gold 3150U</processor>
+<processor>Athlon Silver 3050C</processor>
+<processor>Athlon Silver 3050e</processor>
+<processor>Athlon Silver 3050U</processor>
+<processor>Athlon 3000G</processor>
+<processor>Athlon 300GE</processor>
+<processor>Athlon 300U</processor>
+<processor>Athlon 320GE</processor>
+<processor>Athlon Gold 3150G</processor>
+<processor>Athlon Gold 3150GE</processor>
+<processor>Athlon Silver 3050GE</processor>
+<processor>EPYC 7232P</processor>
+<processor>EPYC 7252</processor>
+<processor>EPYC 7262</processor>
+<processor>EPYC 7272</processor>
+<processor>EPYC 7282</processor>
+<processor>EPYC 7302</processor>
+<processor>EPYC 7302P</processor>
+<processor>EPYC 7352</processor>
+<processor>EPYC 7402</processor>
+<processor>EPYC 7402P</processor>
+<processor>EPYC 7452</processor>
+<processor>EPYC 7502</processor>
+<processor>EPYC 7502P</processor>
+<processor>EPYC 7532</processor>
+<processor>EPYC 7542</processor>
+<processor>EPYC 7552</processor>
+<processor>EPYC 7642</processor>
+<processor>EPYC 7662</processor>
+<processor>EPYC 7702</processor>
+<processor>EPYC 7702P</processor>
+<processor>EPYC 7742</processor>
+<processor>EPYC 7F32</processor>
+<processor>EPYC 7F52</processor>
+<processor>EPYC 7F72</processor>
+<processor>EPYC 7H12</processor>
+<processor>EPYC 72F3</processor>
+<processor>EPYC 7313</processor>
+<processor>EPYC 7313P</processor>
+<processor>EPYC 7343</processor>
+<processor>EPYC 73F3</processor>
+<processor>EPYC 7413</processor>
+<processor>EPYC 7443</processor>
+<processor>EPYC 7443P</processor>
+<processor>EPYC 7453</processor>
+<processor>EPYC 74F3</processor>
+<processor>EPYC 7513</processor>
+<processor>EPYC 7543</processor>
+<processor>EPYC 7543P</processor>
+<processor>EPYC 75F3</processor>
+<processor>EPYC 7643</processor>
+<processor>EPYC 7663</processor>
+<processor>EPYC 7713</processor>
+<processor>EPYC 7713P</processor>
+<processor>EPYC 7763</processor>
+<processor>Ryzen 3 3250C</processor>
+<processor>Ryzen 3 3250U</processor>
+<processor>Ryzen 3 3200G</processor>
+<processor>Ryzen 3 3200GE</processor>
+<processor>Ryzen 3 3200U</processor>
+<processor>Ryzen 3 3350U</processor>
+<processor>Ryzen 3 2300X</processor>
+<processor>Ryzen 3 5300U</processor>
+<processor>Ryzen 3 3100</processor>
+<processor>Ryzen 3 3300U</processor>
+<processor>Ryzen 3 4300G</processor>
+<processor>Ryzen 3 4300GE</processor>
+<processor>Ryzen 3 4300U</processor>
+<processor>Ryzen 3 5400U</processor>
+<processor>Ryzen 3 PRO 3200G</processor>
+<processor>Ryzen 3 PRO 3200GE</processor>
+<processor>Ryzen 3 PRO 3300U</processor>
+<processor>Ryzen 3 PRO 4350GE</processor>
+<processor>Ryzen 3 PRO 4450U</processor>
+<processor>Ryzen 3 PRO 5450U</processor>
+<processor>Ryzen 5 3400G</processor>
+<processor>Ryzen 5 3400GE</processor>
+<processor>Ryzen 5 3450U</processor>
+<processor>Ryzen 5 3500C</processor>
+<processor>Ryzen 5 3500U</processor>
+<processor>Ryzen 5 3550H</processor>
+<processor>Ryzen 5 3580U</processor>
+<processor>Ryzen 5 2500X</processor>
+<processor>Ryzen 5 2600 </processor>
+<processor>Ryzen 5 2600E</processor>
+<processor>Ryzen 5 2600X</processor>
+<processor>Ryzen 5 5500U</processor>
+<processor>Ryzen 5 3500</processor>
+<processor>Ryzen 5 3600</processor>
+<processor>Ryzen 5 3600X</processor>
+<processor>Ryzen 5 3600XT</processor>
+<processor>Ryzen 5 4600G</processor>
+<processor>Ryzen 5 4500U</processor>
+<processor>Ryzen 5 4600GE</processor>
+<processor>Ryzen 5 4600H</processor>
+<processor>Ryzen 5 4600U</processor>
+<processor>Ryzen 5 5600H</processor>
+<processor>Ryzen 5 5600HS</processor>
+<processor>Ryzen 5 5600U</processor>
+<processor>Ryzen 5 5600X</processor>
+<processor>Ryzen 5 PRO 3400G</processor>
+<processor>Ryzen 5 PRO 3400GE</processor>
+<processor>Ryzen 5 PRO 3500U</processor>
+<processor>Ryzen 5 PRO 2600</processor>
+<processor>Ryzen 5 PRO 3600</processor>
+<processor>Ryzen 5 PRO 4650G</processor>
+<processor>Ryzen 5 PRO 4650GE</processor>
+<processor>Ryzen 5 PRO 4650U</processor>
+<processor>Ryzen 5 PRO 5650U</processor>
+<processor>Ryzen 7 3700C</processor>
+<processor>Ryzen 7 3700U</processor>
+<processor>Ryzen 7 3750H</processor>
+<processor>Ryzen 7 3780U</processor>
+<processor>Ryzen 7 2700 </processor>
+<processor>Ryzen 7 2700E</processor>
+<processor>Ryzen 7 2700X</processor>
+<processor>Ryzen 7 5700U</processor>
+<processor>Ryzen 7 3700X</processor>
+<processor>Ryzen 7 3800X</processor>
+<processor>Ryzen 7 3800XT</processor>
+<processor>Ryzen 7 4700G</processor>
+<processor>Ryzen 7 4700GE</processor>
+<processor>Ryzen 7 4700U</processor>
+<processor>Ryzen 7 4800H</processor>
+<processor>Ryzen 7 4800HS</processor>
+<processor>Ryzen 7 4800U</processor>
+<processor>Ryzen 7 5800H</processor>
+<processor>Ryzen 7 5800HS</processor>
+<processor>Ryzen 7 5800U</processor>
+<processor>Ryzen 7 5800</processor>
+<processor>Ryzen 7 5800X</processor>
+<processor>Ryzen 7 PRO 3700U</processor>
+<processor>Ryzen 7 PRO 2700</processor>
+<processor>Ryzen 7 PRO 2700X</processor>
+<processor>Ryzen 7 PRO 4750G</processor>
+<processor>Ryzen 7 PRO 4750GE</processor>
+<processor>Ryzen 7 PRO 4750U</processor>
+<processor>Ryzen 7 PRO 5850U</processor>
+<processor>Ryzen 9 3900</processor>
+<processor>Ryzen 9 3900X</processor>
+<processor>Ryzen 9 3900XT</processor>
+<processor>Ryzen 9 3950X</processor>
+<processor>Ryzen 9 4900H</processor>
+<processor>Ryzen 9 4900HS</processor>
+<processor>Ryzen 9 5900HS</processor>
+<processor>Ryzen 9 5900HX</processor>
+<processor>Ryzen 9 5980HS</processor>
+<processor>Ryzen 9 5980HX</processor>
+<processor>Ryzen 9 5900</processor>
+<processor>Ryzen 9 5900X</processor>
+<processor>Ryzen 9 5950X</processor>
+<processor>Ryzen 9 PRO 3900</processor>
+<processor>Ryzen Threadripper 2920X</processor>
+<processor>Ryzen Threadripper 2950X</processor>
+<processor>Ryzen Threadripper 2970WX</processor>
+<processor>Ryzen Threadripper 2990WX</processor>
+<processor>Ryzen Threadripper 3960X</processor>
+<processor>Ryzen Threadripper 3970X</processor>
+<processor>Ryzen Threadripper 3990X</processor>
+<processor>Ryzen Threadripper PRO 3945WX</processor>
+<processor>Ryzen Threadripper PRO 3955WX</processor>
+<processor>Ryzen Threadripper PRO 3975WX</processor>
+<processor>Ryzen Threadripper PRO 3995WX</processor>
+</ProcessorAMDList>
