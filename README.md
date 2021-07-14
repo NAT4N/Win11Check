@@ -1,7 +1,7 @@
 ![badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 [![ko-fi](https://img.shields.io/badge/Support%20me%20on-KO--FI-ff69b4?style=for-the-badge&logo=KO-FI)](https://ko-fi.com/E1E55B9R7)
 ![badge](https://img.shields.io/github/repo-size/NAT4N/Win11Check?style=for-the-badge)
-![Badge](https://img.shields.io/github/downloads/NAT4N/Win11Check/total?style=for-the-badge)
+![Badge](https://img.shields.io/github/downloads/NAT4N/Win11Check/total?color=sucess)
 ![Badge](https://img.shields.io/github/v/release/NAT4N/Win11Check?style=for-the-badge)
 
 # Win11Check
