@@ -12,9 +12,9 @@
 
 # Donwload
 
-[Download ZIP Version](https://github.com/NAT4N/Win11Check/releases/download/1.0.0.0_ZIP/Win11Check.zip)
+[Download ZIP Version](https://github.com/NAT4N/Win11Check/releases/download/1.0.0.0/Win11Check.zip)
 
-[Download Install Version](https://github.com/NAT4N/Win11Check/releases/download/Install_Version/Win11Check.zip)
+[Download Install Version](https://github.com/NAT4N/Win11Check/releases/download/1.0.0.0/Win11CheckInstall.zip)
 
 # Author
 
