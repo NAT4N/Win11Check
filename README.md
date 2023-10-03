@@ -39,7 +39,4 @@
 ---
 ## Author
 
-Made by [NAT4N](https://github.com/NAT4N) 👋🏽 Contact us!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Natan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natan-bastos-1a3a30168//)](https://www.linkedin.com/in/natan-bastos-1a3a30168/) 
-[![Gmail Badge](https://img.shields.io/badge/-nnatanbastos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nnatanbastos@gmail.com)](mailto:nnatanbastos@gmail.com)
+Made by [NAT4N](https://github.com/NAT4N) 👋🏽
